@@ -50,7 +50,7 @@ class WelcomeScreen extends StatelessWidget {
   ];
 
   final List<String> descriptions = const [
-    "World-class tournament coverage for African golfers.",
+    "World-class tournament coverage for all African golfers.",
     "Empowering golfers across Africa.",
     "Building a strong golf community in Africa.",
   ];
