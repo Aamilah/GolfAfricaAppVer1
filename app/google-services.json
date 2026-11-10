@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503137004759",
+    "project_id": "golf-africa-d0d53",
+    "storage_bucket": "golf-africa-d0d53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503137004759:android:e41cd92f6c0da0a5121492",
+        "android_client_info": {
+          "package_name": "com.golfafrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1L1221tik_amoorsn5N-dk_D-AS5ILLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
